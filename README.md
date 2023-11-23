@@ -1,4 +1,4 @@
-# Airline Database Project Qantas
+# Airline Database Project (Qantas)
 # Airline Database Project
 
 ## Overview
