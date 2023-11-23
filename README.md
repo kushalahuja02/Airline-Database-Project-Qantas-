@@ -52,3 +52,6 @@ Queries demonstrate capabilities like customer information retrieval, flight and
 
 ## License
 Available for use and modification under MIT license
+
+## Contact
+For any queries or discussions regarding this project, feel free to contact me at ahuja.kushal2@gmail.com
